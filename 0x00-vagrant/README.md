@@ -1,1 +1,1 @@
-My second readme
+This project is about linux
